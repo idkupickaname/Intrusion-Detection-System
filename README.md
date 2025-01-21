@@ -57,8 +57,3 @@ The system was trained and tested using the following datasets:
 - Integration with newer datasets to tackle emerging cybersecurity threats.
 - Exploration of models for connected vehicles, IoT, and other advanced use cases.
 - Enhancements in scalability and user interface.
-
-
----
-
-You can now copy this into your `README.md` file on GitHub. Let me know if you need further adjustments!
